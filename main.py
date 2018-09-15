@@ -11,4 +11,7 @@ def main():
     print("-------------------------------------\n\n")
 
     # 1, nejmenší číslo generace (Neměnit), Druhé číslo změnit pouze v případě zvýšení počtu vtipů (Číslo by mělo být o 1 větší než celkový počet vtipů(řádek 4))
-    print(vtipy[random.randint(1, 11)])
+    print(vtipy[random.randint(1, 10)])
+
+
+main()
