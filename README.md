@@ -7,4 +7,4 @@ Then, it will simply print out that joke.
 
 # Additional Info
 
-**DO NOT NAME FILE AS MAIN.PY!!! Use your country code instead. For example: en.py. Thank you for understanding.**
+**DO NOT NAME TRANSLATION FILE AS MAIN.PY!!! Use your country code instead. For example: en.py. Thank you for understanding.**
